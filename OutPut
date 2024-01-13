@@ -1,0 +1,49 @@
+PS D:\MyC_Next\Codes\volvere> python systeam.py
+
+Printing the All Installed software’s list :: 
+Installed Software:
+- R for Windows 4.2.2
+- Python 3.11.3 Standard Library (64-bit)
+- MySQL Shell 8.0.33
+- Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40649
+- Java(TM) SE Development Kit 11.0.16 (64-bit)
+- Tableau Public 2022.3 (20223.22.1005.1835)
+- Python 3.11.3 Documentation (64-bit)
+- MySQL Workbench 8.0 CE
+- Python 3.11.3 pip Bootstrap (64-bit)
+- Python 3.11.3 Utility Scripts (64-bit)
+- Python 3.11.3 Core Interpreter (64-bit)
+- MySQL Server 8.0
+- Go Programming Language amd64 go1.20.6
+- Python 3.11.3 Add to Path (64-bit)
+- Python 3.11.3 Executables (64-bit)
+- Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40649
+- Python 3.11.3 Test Suite (64-bit)
+- Python 3.11.3 Tcl/Tk Support (64-bit)
+- Python 3.11.3 Development Libraries (64-bit)
+- Node.js
+- Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.27.29016
+- Microsoft Visual C++ 2019 X64 Additional Runtime - 14.27.29016
+- MySQL Workbench 8.0 CE
+
+Printing the Screen Resolution ::
+Screen Resolution:  [(1920, 1080)]
+
+Printing the CPU Information ::
+CPU Info:  {'model': 'Intel64 Family 6 Model 140 Stepping 1, GenuineIntel', 'cores': 2, 'threads': 4}
+
+Printing the GPU Information ::
+GPU Info:  Intel(R) UHD Graphics
+
+Printing the Ram Size ::
+RAM Size:  7.6510009765625 GB
+
+Printing the Screen Size ::
+Screen Size (in inches):  14.031255860396806
+
+Printing the Windows Version ::
+Windows Version:  10.0.21996
+
+Printing the MAC Address and IP Address ::
+MAC Address:  4A-E7-DA-82-53-5D
+Public IP Address:  48-E7-DA-82-53-5D
